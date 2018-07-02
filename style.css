@@ -5,3 +5,7 @@
 .form {
     margin: 100px;
 }
+
+.nav-link, .navbar-brand{
+    color: grey !important;
+}
