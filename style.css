@@ -9,3 +9,15 @@
 .nav-link, .navbar-brand{
     color: grey !important;
 }
+
+.about{
+    padding-top: 80px;
+    padding-bottom: 80px;
+ /* margin-left: 56px; */
+    /* margin-bottom: 50px;
+    max-width: 90% !important; */
+}
+
+.donationPage, .news{
+    margin:100px;
+}
